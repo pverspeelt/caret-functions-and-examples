@@ -1,8 +1,12 @@
 ---
 title: "Standard Error of Cross Validation Predictions"
+<<<<<<< HEAD
 output: 
   html_document: 
     keep_md: yes
+=======
+output: html_document
+>>>>>>> ce9b1eb68bd1ca6d27501966f7a2bba4711fb246
 ---
 
 ```{r setup, include=FALSE}

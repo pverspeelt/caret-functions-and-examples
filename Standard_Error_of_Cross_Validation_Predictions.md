@@ -59,5 +59,5 @@ svmFit10CV$results %>%
   labs(title="CV accuracy\nwith 2 SD error bars")
 ```
 
-![](Standard_Error_of_Cross_Validation_Predictions_files/figure-html/plot the cv-1.png)<!-- -->
+![](Standard_Error_of_Cross_Validation_Predictions_files/figure-html/plot the cv-1.png)
 
